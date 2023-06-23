@@ -8,3 +8,4 @@ fetch ('https://test-naz-backend.vercel.app/year')
 yearTextToAdd.textContent = "cest la date du jour" + data.date
 
 })
+   
